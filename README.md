@@ -1,6 +1,4 @@
 # AI-Learning
-My AI learning, automation and calligraphy-related projects.
-# AI-Learning
 
 这是我的 AI 学习仓库。
 
